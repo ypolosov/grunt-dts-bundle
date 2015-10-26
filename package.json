@@ -33,7 +33,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "dts-bundle": "git+ssh://git@github.com:ypolosov/dts-bundle"
+    "dts-bundle": "git+ssh://git@github.com:ypolosov/dts-bundle.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
